@@ -82,7 +82,7 @@ Variable importance depends on borrower state:
 ├── src/
 ├── figures/
 ├── report/
-│   └── final_report.tex
+│   └── Coefficient_Stability_in_Credit_Default_Models.pdf
 └── README.md
 Usage
 
@@ -92,6 +92,7 @@ Install dependencies:
 
 Run notebook:
 `stat230a_project_eda.ipynb`
+
 
 
 This project emphasizes the distinction between predictive performance and interpretation. In settings with correlated predictors, understanding how information is distributed across variables is often more important than marginal improvements in predictive accuracy.
